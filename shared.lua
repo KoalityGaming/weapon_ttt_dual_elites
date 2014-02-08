@@ -27,6 +27,7 @@ SWEP.Primary.ClipMax = 60
 SWEP.Primary.Ammo = "Pistol"
 SWEP.AutoSpawnable = true
 SWEP.AmmoEnt = "item_ammo_pistol_ttt"
+SWEP.Primary.Sound = Sound( "Weapon_P228.Single" )
 
 SWEP.ViewModel  = "models/weapons/v_pist_elite.mdl"
 SWEP.WorldModel = "models/weapons/w_pist_elite.mdl"
