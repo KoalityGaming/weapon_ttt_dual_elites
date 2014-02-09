@@ -6,7 +6,7 @@ SWEP.HoldType = "duel"
    
 
 if CLIENT then
-   SWEP.PrintName = "Double Elites"
+   SWEP.PrintName = "Dual Elites"
    SWEP.Slot = 1
 
    SWEP.Icon = "VGUI/ttt/icon_pistol"
